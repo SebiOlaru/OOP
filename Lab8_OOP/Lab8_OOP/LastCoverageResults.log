@@ -1,0 +1,21 @@
+[2024-04-18 23:47:36] [info] Start Program:
+Path:"C:\Users\Sebi\Desktop\Lab8_OOP\x64\Debug\Lab8_OOP.exe"
+Arguments:
+Working directory: "C:\Users\Sebi\Desktop\Lab8_OOP\Lab8_OOP"
+Modules: Selected: C:\Users\Sebi\Desktop\Lab8_OOP\x64\Debug\Lab8_OOP.exe Excluded: 
+Sources: Selected: C:\Users\Sebi\Desktop\Lab8_OOP\Lab8_OOP Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Sebi\AppData\Local\Temp\es0rtsxm.40o 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2024-04-18 23:47:36] [info] Module: C:\Users\Sebi\Desktop\Lab8_OOP\x64\Debug\Lab8_OOP.exe is selected because it matches selected pattern: C:\Users\Sebi\Desktop\Lab8_OOP\x64\Debug\Lab8_OOP.exe
+[2024-04-18 23:47:38] [info] ----------------------------------------------------
+[2024-04-18 23:47:38] [info] Coverage binary generated in file: C:\Users\Sebi\AppData\Local\Temp\es0rtsxm.40o
+[2024-04-18 23:47:38] [info] ----------------------------------------------------
