@@ -1,0 +1,1025 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26432",
+          "message": {
+            "text": "If you define or delete any default operation in the type 'class Activitate', define or delete them all (c.21)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/activitate.h"
+                },
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Activitate::{ctor}",
+                  "decoratedName": "??0Activitate@@QEAA@AEBV0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 36,
+                  "endLine": 10,
+                  "endColumn": 44
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PlanificareActivitate::generalSort",
+                  "decoratedName": "?generalSort@PlanificareActivitate@@AEAA?AV?$vector@VActivitate@@V?$allocator@VActivitate@@@std@@@std@@P6A_NAEBVActivitate@@0@Z@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 25,
+                  "endLine": 10,
+                  "endColumn": 33
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PlanificareActivitate::generalSort",
+                  "decoratedName": "?generalSort@PlanificareActivitate@@AEAA?AV?$vector@VActivitate@@V?$allocator@VActivitate@@@std@@@std@@P6A_NAEBVActivitate@@0@Z@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 27,
+                  "endLine": 12,
+                  "endColumn": 35
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PlanificareActivitate::generalSort",
+                  "decoratedName": "?generalSort@PlanificareActivitate@@AEAA?AV?$vector@VActivitate@@V?$allocator@VActivitate@@@std@@@std@@P6A_NAEBVActivitate@@0@Z@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 17,
+                  "endLine": 13,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PlanificareActivitate::generalSort",
+                  "decoratedName": "?generalSort@PlanificareActivitate@@AEAA?AV?$vector@VActivitate@@V?$allocator@VActivitate@@@std@@@std@@P6A_NAEBVActivitate@@0@Z@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 5,
+                  "endLine": 13,
+                  "endColumn": 13
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PlanificareActivitate::generalSort",
+                  "decoratedName": "?generalSort@PlanificareActivitate@@AEAA?AV?$vector@VActivitate@@V?$allocator@VActivitate@@@std@@@std@@P6A_NAEBVActivitate@@0@Z@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 5,
+                  "endLine": 14,
+                  "endColumn": 13
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PlanificareActivitate::generalSort",
+                  "decoratedName": "?generalSort@PlanificareActivitate@@AEAA?AV?$vector@VActivitate@@V?$allocator@VActivitate@@@std@@@std@@P6A_NAEBVActivitate@@0@Z@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26429",
+          "message": {
+            "text": "Symbol 'relatie_mai_mic' is never tested for nullness, it can be marked as not_null (f.23)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 43
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PlanificareActivitate::generalSort",
+                  "decoratedName": "?generalSort@PlanificareActivitate@@AEAA?AV?$vector@VActivitate@@V?$allocator@VActivitate@@@std@@@std@@P6A_NAEBVActivitate@@0@Z@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'relatie_mai_mic' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 9,
+                  "endLine": 10,
+                  "endColumn": 44
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PlanificareActivitate::generalSort",
+                  "decoratedName": "?generalSort@PlanificareActivitate@@AEAA?AV?$vector@VActivitate@@V?$allocator@VActivitate@@@std@@@std@@P6A_NAEBVActivitate@@0@Z@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 6,
+                            "startColumn": 43
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 7,
+                            "startColumn": 21
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 7,
+                            "startColumn": 39
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 7,
+                            "startColumn": 27
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 8,
+                            "startColumn": 14
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 8,
+                            "startColumn": 18
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 8,
+                            "startColumn": 36
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 8,
+                            "startColumn": 23
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 9,
+                            "startColumn": 15
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 9,
+                            "startColumn": 21
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 9,
+                            "startColumn": 41
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 9,
+                            "startColumn": 28
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 10,
+                            "startColumn": 44
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 10,
+                            "startColumn": 33
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 10,
+                            "startColumn": 24
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26822",
+          "message": {
+            "text": "Dereferencing a null pointer 'nullptr' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PlanificareActivitate::sortByTipDurata::<lambda_1>::<lambda_invoker_cdecl>",
+                  "decoratedName": "?<lambda_invoker_cdecl>@<lambda_1>@?1??sortByTipDurata@PlanificareActivitate@@QEAA?AV?$vector@VActivitate@@V?$allocator@VActivitate@@@std@@@std@@XZ@SA@AEBVActivitate@@0@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 56,
+                            "startColumn": 3
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 56,
+                            "startColumn": 3
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26822",
+          "message": {
+            "text": "Dereferencing a null pointer 'nullptr' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "PlanificareActivitate::sortByTipDurata::<lambda_1>::<lambda_invoker_vectorcall>",
+                  "decoratedName": "?<lambda_invoker_vectorcall>@<lambda_1>@?1??sortByTipDurata@PlanificareActivitate@@QEAA?AV?$vector@VActivitate@@V?$allocator@VActivitate@@@std@@@std@@XZ@SQ@AEBVActivitate@@0@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 56,
+                            "startColumn": 3
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                          },
+                          "region": {
+                            "startLine": 56,
+                            "startColumn": 3
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6389",
+          "message": {
+            "text": "Move 'testAdaugaService' to anonymous namespace or put a forward declaration in a common header included in this file."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 6
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testAdaugaService",
+                  "decoratedName": "?testAdaugaService@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6389",
+          "message": {
+            "text": "Move 'testSortare' to anonymous namespace or put a forward declaration in a common header included in this file."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 115,
+                  "startColumn": 6
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testSortare",
+                  "decoratedName": "?testSortare@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 123,
+                  "startColumn": 15,
+                  "endLine": 123,
+                  "endColumn": 42
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testSortare",
+                  "decoratedName": "?testSortare@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 126,
+                  "startColumn": 10,
+                  "endLine": 126,
+                  "endColumn": 41
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testSortare",
+                  "decoratedName": "?testSortare@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 129,
+                  "startColumn": 10,
+                  "endLine": 129,
+                  "endColumn": 41
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testSortare",
+                  "decoratedName": "?testSortare@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26458",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 123,
+                  "startColumn": 15,
+                  "endLine": 123,
+                  "endColumn": 42
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testSortare",
+                  "decoratedName": "?testSortare@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26458",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 126,
+                  "startColumn": 10,
+                  "endLine": 126,
+                  "endColumn": 41
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testSortare",
+                  "decoratedName": "?testSortare@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26458",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 129,
+                  "startColumn": 10,
+                  "endLine": 129,
+                  "endColumn": 41
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testSortare",
+                  "decoratedName": "?testSortare@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6389",
+          "message": {
+            "text": "Move 'testCautaDupaTitlu' to anonymous namespace or put a forward declaration in a common header included in this file."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 6
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testCautaDupaTitlu",
+                  "decoratedName": "?testCautaDupaTitlu@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 145,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testCautaDupaTitlu",
+                  "decoratedName": "?testCautaDupaTitlu@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26458",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 145,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testCautaDupaTitlu",
+                  "decoratedName": "?testCautaDupaTitlu@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6389",
+          "message": {
+            "text": "Move 'testFiltrare' to anonymous namespace or put a forward declaration in a common header included in this file."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 152,
+                  "startColumn": 6
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testFiltrare",
+                  "decoratedName": "?testFiltrare@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6389",
+          "message": {
+            "text": "Move '__empty_global_delete' to anonymous namespace or put a forward declaration in a common header included in this file."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 171,
+                  "startColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "__empty_global_delete",
+                  "decoratedName": "?__empty_global_delete@@YAXPEAX@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6389",
+          "message": {
+            "text": "Move '__empty_global_delete' to anonymous namespace or put a forward declaration in a common header included in this file."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+                },
+                "region": {
+                  "startLine": 171,
+                  "startColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "__empty_global_delete",
+                  "decoratedName": "?__empty_global_delete@@YAXPEAX_K@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33521.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/activitate.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "26d95f16625324061ef31279951e829e48cf0b707d79d152efedf82304acca90"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Sebi/Desktop/Lab7_OOP/Lab7_OOP/planificare_activitate.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "4c65d240f52c18f5932f0e2c2837e3d8b7720860f3e4650ce46bd150333b94d2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/sebi/desktop/lab7_oop/lab7_oop/planificare_activitate.h"
+          },
+          "hashes": {
+            "sha-256": "362b62d0ac7ddbfa19907dcb37d527442a53c6b30714d558ad65504dd0ffef27"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/sebi/desktop/lab7_oop/lab7_oop/repository.h"
+          },
+          "hashes": {
+            "sha-256": "e5102ade9c68029a407c838918bdfa68d94982a94db7564fe9a9ecd41e6188ac"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/sebi/desktop/lab7_oop/lab7_oop/validator.h"
+          },
+          "hashes": {
+            "sha-256": "c863061470bddc681a43a353c0b7195bb5fc8bcf6257da53c1bfec517b4ddb30"
+          }
+        }
+      ]
+    }
+  ]
+}

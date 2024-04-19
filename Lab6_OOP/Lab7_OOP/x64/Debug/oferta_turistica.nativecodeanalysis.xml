@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>oferta_turistica.h</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class OfertaTuristica', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>OfertaTuristica::{ctor}</FUNCTION>
+    <DECORATED>??0OfertaTuristica@@QEAA@AEBV0@@Z</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

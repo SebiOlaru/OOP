@@ -1,0 +1,1318 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26432",
+          "message": {
+            "text": "If you define or delete any default operation in the type 'class OfertaTuristica', define or delete them all (c.21)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/oferta_turistica.h"
+                },
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 2,
+                  "endLine": 16,
+                  "endColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "OfertaTuristica::{ctor}",
+                  "decoratedName": "??0OfertaTuristica@@QEAA@AEBV0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 36,
+                  "endLine": 10,
+                  "endColumn": 44
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AgentieTurism::generalSort",
+                  "decoratedName": "?generalSort@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@P6A_NAEBVOfertaTuristica@@0@Z@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 25,
+                  "endLine": 10,
+                  "endColumn": 33
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AgentieTurism::generalSort",
+                  "decoratedName": "?generalSort@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@P6A_NAEBVOfertaTuristica@@0@Z@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 32,
+                  "endLine": 12,
+                  "endColumn": 40
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AgentieTurism::generalSort",
+                  "decoratedName": "?generalSort@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@P6A_NAEBVOfertaTuristica@@0@Z@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 17,
+                  "endLine": 13,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AgentieTurism::generalSort",
+                  "decoratedName": "?generalSort@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@P6A_NAEBVOfertaTuristica@@0@Z@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 5,
+                  "endLine": 13,
+                  "endColumn": 13
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AgentieTurism::generalSort",
+                  "decoratedName": "?generalSort@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@P6A_NAEBVOfertaTuristica@@0@Z@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 5,
+                  "endLine": 14,
+                  "endColumn": 13
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AgentieTurism::generalSort",
+                  "decoratedName": "?generalSort@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@P6A_NAEBVOfertaTuristica@@0@Z@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26429",
+          "message": {
+            "text": "Symbol 'relatie_mai_mic' is never tested for nullness, it can be marked as not_null (f.23)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 40,
+                  "endLine": 6,
+                  "endColumn": 40
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AgentieTurism::generalSort",
+                  "decoratedName": "?generalSort@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@P6A_NAEBVOfertaTuristica@@0@Z@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'relatie_mai_mic' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 9,
+                  "endLine": 10,
+                  "endColumn": 44
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AgentieTurism::generalSort",
+                  "decoratedName": "?generalSort@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@P6A_NAEBVOfertaTuristica@@0@Z@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 10,
+                            "startColumn": 24
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 26
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AgentieTurism::addOfertaTuristica",
+                  "decoratedName": "?addOfertaTuristica@AgentieTurism@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00H@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 25,
+                            "startColumn": 21
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 26,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 26,
+                            "startColumn": 46
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 26,
+                            "startColumn": 46
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 26,
+                            "startColumn": 35
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 26,
+                            "startColumn": 35
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 26,
+                            "startColumn": 26
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 35
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AgentieTurism::addOfertaTuristica",
+                  "decoratedName": "?addOfertaTuristica@AgentieTurism@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00H@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 25,
+                            "startColumn": 21
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 26,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 26,
+                            "startColumn": 46
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 26,
+                            "startColumn": 46
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 26,
+                            "startColumn": 35
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 46
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AgentieTurism::addOfertaTuristica",
+                  "decoratedName": "?addOfertaTuristica@AgentieTurism@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00H@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 25,
+                            "startColumn": 21
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 26,
+                            "startColumn": 18
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 26,
+                            "startColumn": 46
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 25,
+                  "endLine": 35,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AgentieTurism::sortByDenumire",
+                  "decoratedName": "?sortByDenumire@AgentieTurism@@QEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 33,
+                            "startColumn": 40
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 34,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 34,
+                            "startColumn": 27
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 34,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 35,
+                            "startColumn": 36
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 35,
+                            "startColumn": 40
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 35,
+                            "startColumn": 19
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 35,
+                            "startColumn": 25
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 35,
+                            "startColumn": 25
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 40,
+                  "endLine": 35,
+                  "endColumn": 40
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AgentieTurism::sortByDenumire",
+                  "decoratedName": "?sortByDenumire@AgentieTurism@@QEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 33,
+                            "startColumn": 40
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 34,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 34,
+                            "startColumn": 27
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 34,
+                            "startColumn": 15
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 35,
+                            "startColumn": 36
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 35,
+                            "startColumn": 40
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 35,
+                            "startColumn": 40
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26822",
+          "message": {
+            "text": "Dereferencing a null pointer 'nullptr' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 3,
+                  "endLine": 56,
+                  "endColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AgentieTurism::sortByTipPret::<lambda_1>::<lambda_invoker_cdecl>",
+                  "decoratedName": "?<lambda_invoker_cdecl>@<lambda_1>@?1??sortByTipPret@AgentieTurism@@QEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@XZ@SA@AEBVOfertaTuristica@@0@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 56,
+                            "startColumn": 3
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 56,
+                            "startColumn": 3
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26822",
+          "message": {
+            "text": "Dereferencing a null pointer 'nullptr' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 3,
+                  "endLine": 56,
+                  "endColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AgentieTurism::sortByTipPret::<lambda_1>::<lambda_invoker_vectorcall>",
+                  "decoratedName": "?<lambda_invoker_vectorcall>@<lambda_1>@?1??sortByTipPret@AgentieTurism@@QEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@XZ@SQ@AEBVOfertaTuristica@@0@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 56,
+                            "startColumn": 3
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 56,
+                            "startColumn": 3
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26823",
+          "message": {
+            "text": "Dereferencing a possibly null pointer 'oferta' (lifetime.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 7,
+                  "endLine": 62,
+                  "endColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "AgentieTurism::filtreaza",
+                  "decoratedName": "?filtreaza@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@V?$function@$$A6A_NAEBVOfertaTuristica@@@Z@3@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                          },
+                          "region": {
+                            "startLine": 62,
+                            "startColumn": 14
+                          }
+                        }
+                      },
+                      "importance": "important"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 89,
+                  "startColumn": 15,
+                  "endLine": 89,
+                  "endColumn": 41
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testSortare",
+                  "decoratedName": "?testSortare@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 10,
+                  "endLine": 92,
+                  "endColumn": 38
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testSortare",
+                  "decoratedName": "?testSortare@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26446",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 95,
+                  "startColumn": 10,
+                  "endLine": 95,
+                  "endColumn": 35
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testSortare",
+                  "decoratedName": "?testSortare@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26458",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 89,
+                  "startColumn": 15,
+                  "endLine": 89,
+                  "endColumn": 41
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testSortare",
+                  "decoratedName": "?testSortare@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26458",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 10,
+                  "endLine": 92,
+                  "endColumn": 38
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testSortare",
+                  "decoratedName": "?testSortare@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26458",
+          "message": {
+            "text": "Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+                },
+                "region": {
+                  "startLine": 95,
+                  "startColumn": 10,
+                  "endLine": 95,
+                  "endColumn": 35
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "testSortare",
+                  "decoratedName": "?testSortare@@YAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31937.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/oferta_turistica.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "9c0bca36201b5c1fb10ad6659a9078537b3c9957c12d41f31b15ce61211ac11d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/agentie_turism.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "a1576b79768c9b90d6fbb589052363e297887b3828112f8b5b1ac74e132f018c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/flavia paula/source/repos/lab7_oop/lab7_oop/agentie_turism.h"
+          },
+          "hashes": {
+            "sha-256": "a3e1e3bdc603f53cf97076fbbe2639cdc9a86fe4ccab00ceec7b85433fe37333"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/flavia paula/source/repos/lab7_oop/lab7_oop/repository.h"
+          },
+          "hashes": {
+            "sha-256": "9536652be7669a7d5452ff733b1b8e0af842777806a88c1e175765f5c790e547"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/flavia paula/source/repos/lab7_oop/lab7_oop/validator.h"
+          },
+          "hashes": {
+            "sha-256": "5e4299903a778461b8980290902298cfc88ca6fb20d1e22992a8786e68f05583"
+          }
+        }
+      ]
+    }
+  ]
+}

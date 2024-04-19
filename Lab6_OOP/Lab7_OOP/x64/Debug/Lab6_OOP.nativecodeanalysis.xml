@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>activitate.h</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class Activitate', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>Activitate::{ctor}</FUNCTION>
+    <DECORATED>??0Activitate@@QEAA@AEBV0@@Z</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>console.h</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'ConsoleUI::ConsoleUI' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>ConsoleUI::{ctor}</FUNCTION>
+    <DECORATED>??0ConsoleUI@@QEAA@AEAVPlanificareActivitate@@@Z</DECORATED>
+    <FUNCLINE>19</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>Lab6_OOP.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6389</DEFECTCODE>
+    <DESCRIPTION>Move 'testAll' to anonymous namespace or put a forward declaration in a common header included in this file.</DESCRIPTION>
+    <FUNCTION>testAll</FUNCTION>
+    <DECORATED>?testAll@@YAXXZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>Lab6_OOP.cpp</FILENAME>
+      <LINE>23</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>6389</DEFECTCODE>
+    <DESCRIPTION>Move '__empty_global_delete' to anonymous namespace or put a forward declaration in a common header included in this file.</DESCRIPTION>
+    <FUNCTION>__empty_global_delete</FUNCTION>
+    <DECORATED>?__empty_global_delete@@YAXPEAX@Z</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>Lab6_OOP.cpp</FILENAME>
+      <LINE>23</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>6389</DEFECTCODE>
+    <DESCRIPTION>Move '__empty_global_delete' to anonymous namespace or put a forward declaration in a common header included in this file.</DESCRIPTION>
+    <FUNCTION>__empty_global_delete</FUNCTION>
+    <DECORATED>?__empty_global_delete@@YAXPEAX_K@Z</DECORATED>
+    <FUNCLINE>23</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

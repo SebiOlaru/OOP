@@ -1,0 +1,42 @@
+﻿  repository.cpp
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP/activitate.h(16,2): warning GF00F9E6C: definition of implicit copy assignment operator for 'Activitate' is deprecated because it has a user-provided copy constructor [clang-diagnostic-deprecated-copy-with-user-provided-copy]
+     16 |         Activitate(const Activitate& activitate) :titlu{ activitate.titlu }, descriere{ activitate.descriere }, tip{ activitate.tip }, durata { activitate.durata } {
+        |         ^
+  C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp:13:15: note: in implicit copy assignment operator for 'Activitate' first required here
+     13 |                                 vector[i] = vector[j];
+        |                                           ^
+  Lab7_OOP.vcxproj -> C:\Users\Sebi\Desktop\Lab7_OOP\x64\Debug\Lab6_OOP.exe
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\activitate.h(16): warning C26432: If you define or delete any default operation in the type 'class Activitate', define or delete them all (c.21).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(10): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(10): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(12): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(13): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(13): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(14): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(6): warning C26429: Symbol 'relatie_mai_mic' is never tested for nullness, it can be marked as not_null (f.23).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(10): warning C26823: Dereferencing a possibly null pointer 'relatie_mai_mic' (lifetime.1).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(56): warning C26822: Dereferencing a null pointer 'nullptr' (lifetime.1).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(104): warning C6389: Move 'testAdaugaService' to anonymous namespace or put a forward declaration in a common header included in this file.
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(115): warning C6389: Move 'testSortare' to anonymous namespace or put a forward declaration in a common header included in this file.
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(123): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(126): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(129): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(123): warning C26458: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(126): warning C26458: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(129): warning C26458: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(134): warning C6389: Move 'testCautaDupaTitlu' to anonymous namespace or put a forward declaration in a common header included in this file.
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(145): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(145): warning C26458: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(152): warning C6389: Move 'testFiltrare' to anonymous namespace or put a forward declaration in a common header included in this file.
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp(171): warning C6389: Move '__empty_global_delete' to anonymous namespace or put a forward declaration in a common header included in this file.
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\console.h(19): warning C26440: Function 'ConsoleUI::ConsoleUI' can be declared 'noexcept' (f.6).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\console.cpp(75): warning C26823: Dereferencing a possibly null pointer '(this->ConsoleUI::planificare)' (lifetime.1).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\console.cpp(91): warning C6389: Move '__empty_global_delete' to anonymous namespace or put a forward declaration in a common header included in this file.
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\Lab6_OOP.cpp(7): warning C6389: Move 'testAll' to anonymous namespace or put a forward declaration in a common header included in this file.
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\Lab6_OOP.cpp(23): warning C6389: Move '__empty_global_delete' to anonymous namespace or put a forward declaration in a common header included in this file.
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\activitate.cpp(11): warning C6389: Move '__empty_global_delete' to anonymous namespace or put a forward declaration in a common header included in this file.
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\repository.cpp(56): warning C6389: Move 'testAdauga' to anonymous namespace or put a forward declaration in a common header included in this file.
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\repository.cpp(85): warning C6389: Move 'testCauta' to anonymous namespace or put a forward declaration in a common header included in this file.
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\repository.cpp(108): warning C6389: Move '__empty_global_delete' to anonymous namespace or put a forward declaration in a common header included in this file.
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\validator.cpp(32): warning C26496: The variable 'mesaj' does not change after construction, mark it as const (con.4).
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\validator.cpp(38): warning C6389: Move '__empty_global_delete' to anonymous namespace or put a forward declaration in a common header included in this file.

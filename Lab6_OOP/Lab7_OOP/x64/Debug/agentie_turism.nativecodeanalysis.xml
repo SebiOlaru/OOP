@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>oferta_turistica.h</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class OfertaTuristica', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>OfertaTuristica::{ctor}</FUNCTION>
+    <DECORATED>??0OfertaTuristica@@QEAA@AEBV0@@Z</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>43</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>AgentieTurism::generalSort</FUNCTION>
+    <DECORATED>?generalSort@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@P6A_NAEBVOfertaTuristica@@0@Z@Z</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>32</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>AgentieTurism::generalSort</FUNCTION>
+    <DECORATED>?generalSort@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@P6A_NAEBVOfertaTuristica@@0@Z@Z</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>39</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>AgentieTurism::generalSort</FUNCTION>
+    <DECORATED>?generalSort@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@P6A_NAEBVOfertaTuristica@@0@Z@Z</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>AgentieTurism::generalSort</FUNCTION>
+    <DECORATED>?generalSort@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@P6A_NAEBVOfertaTuristica@@0@Z@Z</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>AgentieTurism::generalSort</FUNCTION>
+    <DECORATED>?generalSort@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@P6A_NAEBVOfertaTuristica@@0@Z@Z</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>AgentieTurism::generalSort</FUNCTION>
+    <DECORATED>?generalSort@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@P6A_NAEBVOfertaTuristica@@0@Z@Z</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>39</COLUMN>
+    </SFA>
+    <DEFECTCODE>26429</DEFECTCODE>
+    <DESCRIPTION>Symbol 'relatie_mai_mic' is never tested for nullness, it can be marked as not_null (f.23).</DESCRIPTION>
+    <FUNCTION>AgentieTurism::generalSort</FUNCTION>
+    <DECORATED>?generalSort@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@P6A_NAEBVOfertaTuristica@@0@Z@Z</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'relatie_mai_mic' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>AgentieTurism::generalSort</FUNCTION>
+    <DECORATED>?generalSort@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@P6A_NAEBVOfertaTuristica@@0@Z@Z</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>10</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>26</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.1' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>AgentieTurism::addOfertaTuristica</FUNCTION>
+    <DECORATED>?addOfertaTuristica@AgentieTurism@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00H@Z</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>45</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>45</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>34</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>34</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>26</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>AgentieTurism::addOfertaTuristica</FUNCTION>
+    <DECORATED>?addOfertaTuristica@AgentieTurism@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00H@Z</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>45</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>45</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>34</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>26</LINE>
+      <COLUMN>45</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>AgentieTurism::addOfertaTuristica</FUNCTION>
+    <DECORATED>?addOfertaTuristica@AgentieTurism@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00H@Z</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>45</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>35</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.2' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>AgentieTurism::sortByDenumire</FUNCTION>
+    <DECORATED>?sortByDenumire@AgentieTurism@@QEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@XZ</DECORATED>
+    <FUNCLINE>33</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>33</LINE>
+        <COLUMN>39</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>34</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>34</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>34</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>35</LINE>
+        <COLUMN>35</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>35</LINE>
+        <COLUMN>39</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>35</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>35</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>35</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>35</LINE>
+      <COLUMN>39</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'allotemp.3' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>AgentieTurism::sortByDenumire</FUNCTION>
+    <DECORATED>?sortByDenumire@AgentieTurism@@QEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@XZ</DECORATED>
+    <FUNCLINE>33</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>33</LINE>
+        <COLUMN>39</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>34</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>34</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>34</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>35</LINE>
+        <COLUMN>35</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>35</LINE>
+        <COLUMN>39</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>35</LINE>
+        <COLUMN>39</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>56</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26822</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a null pointer 'nullptr' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>AgentieTurism::sortByTipPret::&lt;lambda_1&gt;::&lt;lambda_invoker_cdecl&gt;</FUNCTION>
+    <DECORATED>?&lt;lambda_invoker_cdecl&gt;@&lt;lambda_1&gt;@?1??sortByTipPret@AgentieTurism@@QEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@XZ@SA@AEBVOfertaTuristica@@0@Z</DECORATED>
+    <FUNCLINE>56</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>2</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>2</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>56</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26822</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a null pointer 'nullptr' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>AgentieTurism::sortByTipPret::&lt;lambda_1&gt;::&lt;lambda_invoker_vectorcall&gt;</FUNCTION>
+    <DECORATED>?&lt;lambda_invoker_vectorcall&gt;@&lt;lambda_1&gt;@?1??sortByTipPret@AgentieTurism@@QEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@XZ@SQ@AEBVOfertaTuristica@@0@Z</DECORATED>
+    <FUNCLINE>56</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>2</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>2</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>62</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26823</DEFECTCODE>
+    <DESCRIPTION>Dereferencing a possibly null pointer 'oferta' (lifetime.1).</DESCRIPTION>
+    <FUNCTION>AgentieTurism::filtreaza</FUNCTION>
+    <DECORATED>?filtreaza@AgentieTurism@@AEAA?AV?$vector@VOfertaTuristica@@V?$allocator@VOfertaTuristica@@@std@@@std@@V?$function@$$A6A_NAEBVOfertaTuristica@@@Z@3@@Z</DECORATED>
+    <FUNCLINE>59</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+        <FILENAME>agentie_turism.cpp</FILENAME>
+        <LINE>62</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>89</LINE>
+      <COLUMN>40</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>testSortare</FUNCTION>
+    <DECORATED>?testSortare@@YAXXZ</DECORATED>
+    <FUNCLINE>81</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>92</LINE>
+      <COLUMN>37</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>testSortare</FUNCTION>
+    <DECORATED>?testSortare@@YAXXZ</DECORATED>
+    <FUNCLINE>81</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>95</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>26446</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>testSortare</FUNCTION>
+    <DECORATED>?testSortare@@YAXXZ</DECORATED>
+    <FUNCLINE>81</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>89</LINE>
+      <COLUMN>40</COLUMN>
+    </SFA>
+    <DEFECTCODE>26458</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>testSortare</FUNCTION>
+    <DECORATED>?testSortare@@YAXXZ</DECORATED>
+    <FUNCLINE>81</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>92</LINE>
+      <COLUMN>37</COLUMN>
+    </SFA>
+    <DEFECTCODE>26458</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>testSortare</FUNCTION>
+    <DECORATED>?testSortare@@YAXXZ</DECORATED>
+    <FUNCLINE>81</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\</FILEPATH>
+      <FILENAME>agentie_turism.cpp</FILENAME>
+      <LINE>95</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>26458</DEFECTCODE>
+    <DESCRIPTION>Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).</DESCRIPTION>
+    <FUNCTION>testSortare</FUNCTION>
+    <DECORATED>?testSortare@@YAXXZ</DECORATED>
+    <FUNCLINE>81</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

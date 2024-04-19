@@ -1,0 +1,6 @@
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP/activitate.h:16:2: warning: definition of implicit copy assignment operator for 'Activitate' is deprecated because it has a user-provided copy constructor [clang-diagnostic-deprecated-copy-with-user-provided-copy]
+   16 |         Activitate(const Activitate& activitate) :titlu{ activitate.titlu }, descriere{ activitate.descriere }, tip{ activitate.tip }, durata { activitate.durata } {
+      |         ^
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\planificare_activitate.cpp:13:15: note: in implicit copy assignment operator for 'Activitate' first required here
+   13 |                                 vector[i] = vector[j];
+      |                                           ^

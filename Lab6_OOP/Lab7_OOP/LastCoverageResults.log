@@ -1,0 +1,21 @@
+[2024-04-18 23:12:33] [info] Start Program:
+Path:"C:\Users\Sebi\Desktop\Lab7_OOP\x64\Debug\Lab6_OOP.exe"
+Arguments:
+Working directory: "C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\"
+Modules: Selected: C:\Users\Sebi\Desktop\Lab7_OOP\x64\Debug\Lab6_OOP.exe Excluded: 
+Sources: Selected: C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Sebi\AppData\Local\Temp\5bxfikmv.n32 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2024-04-18 23:12:42] [info] Module: C:\Users\Sebi\Desktop\Lab7_OOP\x64\Debug\Lab6_OOP.exe is selected because it matches selected pattern: C:\Users\Sebi\Desktop\Lab7_OOP\x64\Debug\Lab6_OOP.exe
+[2024-04-18 23:12:45] [info] ----------------------------------------------------
+[2024-04-18 23:12:45] [info] Coverage binary generated in file: C:\Users\Sebi\AppData\Local\Temp\5bxfikmv.n32
+[2024-04-18 23:12:45] [info] ----------------------------------------------------

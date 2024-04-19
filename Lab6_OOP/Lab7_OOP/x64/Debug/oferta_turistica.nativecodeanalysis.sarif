@@ -1,0 +1,75 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26432",
+          "message": {
+            "text": "If you define or delete any default operation in the type 'class OfertaTuristica', define or delete them all (c.21)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/oferta_turistica.h"
+                },
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 2,
+                  "endLine": 16,
+                  "endColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "OfertaTuristica::{ctor}",
+                  "decoratedName": "??0OfertaTuristica@@QEAA@AEBV0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31937.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/Flavia Paula/source/repos/Lab7_OOP/Lab7_OOP/oferta_turistica.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "9c0bca36201b5c1fb10ad6659a9078537b3c9957c12d41f31b15ce61211ac11d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/flavia paula/source/repos/lab7_oop/lab7_oop/oferta_turistica.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "b17a5361569f9b1f81b5449ea11656ef7165a55296652ac48ac4cb682561f5b4"
+          }
+        }
+      ]
+    }
+  ]
+}

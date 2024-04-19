@@ -1,0 +1,32 @@
+[
+  {
+    "directory": "C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP",
+    "command": "\"C:\\Windows\\system32\\CL.exe\" \/c \/nologo \/W4 \/WX \/diagnostics:column \/Od \/D CODE_ANALYSIS \/D _DEBUG \/D _CONSOLE \/D _UNICODE \/D UNICODE \/EHsc \/RTC1 \/MDd \/GS \/fp:precise \/permissive- \/Fo\"x64\\Debug\\\\\" \/Gd \/TP --target=amd64-pc-windows-msvc;  \"C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP\\planificare_activitate.cpp\"",
+    "file": "C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP\\planificare_activitate.cpp"
+  },
+  {
+    "directory": "C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP",
+    "command": "\"C:\\Windows\\system32\\CL.exe\" \/c \/nologo \/W4 \/WX \/diagnostics:column \/Od \/D CODE_ANALYSIS \/D _DEBUG \/D _CONSOLE \/D _UNICODE \/D UNICODE \/EHsc \/RTC1 \/MDd \/GS \/fp:precise \/permissive- \/Fo\"x64\\Debug\\\\\" \/Gd \/TP --target=amd64-pc-windows-msvc;  \"C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP\\console.cpp\"",
+    "file": "C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP\\console.cpp"
+  },
+  {
+    "directory": "C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP",
+    "command": "\"C:\\Windows\\system32\\CL.exe\" \/c \/nologo \/W4 \/WX \/diagnostics:column \/Od \/D CODE_ANALYSIS \/D _DEBUG \/D _CONSOLE \/D _UNICODE \/D UNICODE \/EHsc \/RTC1 \/MDd \/GS \/fp:precise \/permissive- \/Fo\"x64\\Debug\\\\\" \/Gd \/TP --target=amd64-pc-windows-msvc;  \"C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP\\Lab6_OOP.cpp\"",
+    "file": "C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP\\Lab6_OOP.cpp"
+  },
+  {
+    "directory": "C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP",
+    "command": "\"C:\\Windows\\system32\\CL.exe\" \/c \/nologo \/W4 \/WX \/diagnostics:column \/Od \/D CODE_ANALYSIS \/D _DEBUG \/D _CONSOLE \/D _UNICODE \/D UNICODE \/EHsc \/RTC1 \/MDd \/GS \/fp:precise \/permissive- \/Fo\"x64\\Debug\\\\\" \/Gd \/TP --target=amd64-pc-windows-msvc;  \"C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP\\activitate.cpp\"",
+    "file": "C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP\\activitate.cpp"
+  },
+  {
+    "directory": "C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP",
+    "command": "\"C:\\Windows\\system32\\CL.exe\" \/c \/nologo \/W4 \/WX \/diagnostics:column \/Od \/D CODE_ANALYSIS \/D _DEBUG \/D _CONSOLE \/D _UNICODE \/D UNICODE \/EHsc \/RTC1 \/MDd \/GS \/fp:precise \/permissive- \/Fo\"x64\\Debug\\\\\" \/Gd \/TP --target=amd64-pc-windows-msvc;  \"C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP\\repository.cpp\"",
+    "file": "C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP\\repository.cpp"
+  },
+  {
+    "directory": "C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP",
+    "command": "\"C:\\Windows\\system32\\CL.exe\" \/c \/nologo \/W4 \/WX \/diagnostics:column \/Od \/D CODE_ANALYSIS \/D _DEBUG \/D _CONSOLE \/D _UNICODE \/D UNICODE \/EHsc \/RTC1 \/MDd \/GS \/fp:precise \/permissive- \/Fo\"x64\\Debug\\\\\" \/Gd \/TP --target=amd64-pc-windows-msvc;  \"C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP\\validator.cpp\"",
+    "file": "C:\\Users\\Sebi\\Desktop\\Lab7_OOP\\Lab7_OOP\\validator.cpp"
+  }
+]

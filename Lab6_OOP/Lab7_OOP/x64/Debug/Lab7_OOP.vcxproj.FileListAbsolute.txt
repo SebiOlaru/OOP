@@ -1,0 +1,4 @@
+C:\Users\Flavia Paula\source\repos\Lab7_OOP\x64\Debug\Lab6_OOP.exe.lastcodeanalysissucceeded
+C:\Users\Flavia Paula\source\repos\Lab7_OOP\Lab7_OOP\x64\Debug\NativeCodeAnalysis.read.1.tlog
+C:\Users\Sebi\Desktop\Lab7_OOP\x64\Debug\Lab6_OOP.exe.lastcodeanalysissucceeded
+C:\Users\Sebi\Desktop\Lab7_OOP\Lab7_OOP\x64\Debug\NativeCodeAnalysis.read.1.tlog
